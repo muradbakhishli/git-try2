@@ -3,5 +3,6 @@ public class User {
     private String username;
     private int age;
     private String email;
+    public User() {}
 
 }
